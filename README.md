@@ -3,7 +3,7 @@
 I am a student at ETNA. If you have a job to offer me, contact me : 
 
  📧 : arfaou_a@etna-alternance.net </br>
- 📱 : 06 95 73 71 29.
+ 📱 : 06 95 73 71 29. <br>
  ![img_contact](./img/https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/sofiane-arfaoui/)
 
 ### Have a nice day ! :D
