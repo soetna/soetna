@@ -15,7 +15,6 @@ I am a student at ETNA. If you have a job to offer me, contact me :
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="left" width="50px" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
- <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
