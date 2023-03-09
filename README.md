@@ -11,7 +11,7 @@ I am a student at ETNA. If you have a job to offer me, contact me :
 
  <br><br>
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
- <img align="left" width="80px" src="https://miro.medium.com/v2/resize:fit:365/1*d2zLEjERsrs1Rzk_95QU9A.png"/>
+ <img align="left" alt="AWS" width="80px" src="https://miro.medium.com/v2/resize:fit:365/1*d2zLEjERsrs1Rzk_95QU9A.png"/>
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="left" width="50px" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
