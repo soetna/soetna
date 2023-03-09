@@ -4,6 +4,7 @@ I am a student at ETNA. If you have a job to offer me, contact me :
 
  📧 : arfaou_a@etna-alternance.net </br>
  📱 : 06 95 73 71 29.
+ ![img_contact](./img/https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/sofiane-arfaoui/)
 
 ### Have a nice day ! :D
 
@@ -19,6 +20,7 @@ I am a student at ETNA. If you have a job to offer me, contact me :
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" width="75px" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-2-logo-png-transparent.png" />
+ <img align="left" width="50px" src="https://logodix.com/logo/470216.png" />
 
 
 <!--
