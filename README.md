@@ -18,7 +18,7 @@ I am a student at ETNA. If you have a job to offer me, contact me :
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="left" width="80px" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-2-logo-png-transparent.png" />
+ <img align="left" alt="AWS" width="80px" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-2-logo-png-transparent.png" />
  <img align="left" width="75px" src="https://logodix.com/logo/470216.png" />
 
 
